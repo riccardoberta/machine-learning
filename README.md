@@ -16,15 +16,16 @@ The notebooks of this course are based on contents and examples from the followi
 
 ## Books
 
-1. [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-2. [Dive into Deep Learning](https://d2l.ai/)
-3. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-4. [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
-5. [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html)
-6. [AI at the Edge - Solving Real-World Problems with Embedded Machine Learning](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
-7. [TinyML - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.oreilly.com/library/view/tinyml/9781492052036/)
-8. [Natural Language Processing With Transformers](https://transformersbook.com/)
-9. [Machine Learning Systems with TinyML](https://harvard-edge.github.io/cs249r_book/)
+1. A. Géron [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+2. T. Hastie, R. Tibshirani, J. Friedman [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+3. S. Shalev-Shwartz, S. Ben-David [Understanding machine learning: From theory to algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6)
+4. M. Bishop, H. Bishop [Deep learning: Foundations and concepts](https://www.bishopbook.com/)
+5. J. Grus [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
+6. T. Mitchell [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html)
+7. D. Situnayake, J. Plunkett [AI at the Edge - Solving Real-World Problems with Embedded Machine Learning](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
+8. P. Warden, D. Situnayake [TinyML - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.oreilly.com/library/view/tinyml/9781492052036/)
+9. L. Tunstall, L. von Werra, T. Wolf [Natural Language Processing With Transformers](https://transformersbook.com/)
+10. V. J. Reddi [Machine Learning Systems with TinyML](https://harvard-edge.github.io/cs249r_book/)
 
 ## Courses
 

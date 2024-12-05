@@ -1,6 +1,6 @@
 ## Environment installation instructions
 
-Here’s a step-by-step guide on how to set up a machine learning virtual environment using Conda on Windows (similar instraction works also for MacOS or Linux) with Visual Studio Code (VS Code) as IDE. The environment will be named "machine-learning" and will include Python, Jupyter, Pandas, NumPy, SciKit-Learn, and TensorFlow.
+Here’s a step-by-step guide on how to set up a machine learning virtual environment using Conda on Windows (similar instructions works also for MacOS or Linux) with Visual Studio Code (VS Code) as IDE. The environment will be named "machine-learning" and will include Python, Jupyter, Pandas, NumPy, SciKit-Learn, and TensorFlow.
 
 ### Step 1: Install Conda
 
