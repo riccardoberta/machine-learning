@@ -26,6 +26,7 @@ The notebooks of this course are based on contents and examples from the followi
 8. P. Warden, D. Situnayake [TinyML - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.oreilly.com/library/view/tinyml/9781492052036/)
 9. L. Tunstall, L. von Werra, T. Wolf [Natural Language Processing With Transformers](https://transformersbook.com/)
 10. V. J. Reddi [Machine Learning Systems with TinyML](https://harvard-edge.github.io/cs249r_book/)
+11. I. Pointer [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)
 
 ## Courses
 
@@ -45,3 +46,4 @@ The notebooks of this course are based on contents and examples from the followi
 6. [Data Trends in Machine Learning](https://docs.google.com/spreadsheets/d/1AAIebjNsnJj_uKALHbXNfn3_YsT6sHXtCU0q7OIPuc4/edit?usp=sharing)
 7. [Tiny Machine Learning Open Education Initiative (TinyMLedu)](https://tinyml.seas.harvard.edu/)
 8. [TinyML Foundation](https://www.tinyml.org/)
+9. [TinyTorch](https://mlsysbook.ai/tinytorch/intro.html)
