@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//private/tmp/**)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3 -c \":*)"
+    ]
+  }
+}
