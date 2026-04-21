@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(head -n 1043 \"/Users/riccardoberta/Library/CloudStorage/OneDrive-unige.it/Didattica/ML - Machine Learning/Lecture Notes/07 - Support Vector Machines/notes.ipynb\")",
+      "Read(//tmp/**)",
+      "Bash(python3)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
